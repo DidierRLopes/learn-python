@@ -1,6 +1,8 @@
 # Learn Python
 
-The notebook contains the following table of contents:
+*I have used this notebook to teach python in the past.*
+
+These are the topics mentioned:
 * Primitive Variables
 * Print
 * Arithmetic Operations
